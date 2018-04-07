@@ -27,6 +27,7 @@ namespace XORSolver
             new[] {0.0}
         };
 
+        /* Ciao! Sono un bel commento */
         /// <summary>
         /// Main function
         /// </summary>
