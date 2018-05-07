@@ -7,4 +7,4 @@ Il repository contiene i seguenti sottoprogetti:
 - Spiderbot: Applicativo principale dello spiderbot.
 - XORSolver: Semplice MLP che risolve una disgiunzione esclusiva.
 
-##### ~Tutti i progetti sono stati creati attraverso Visual Studio 2017~
+**Tutti i progetti sono stati creati attraverso Visual Studio 2017**
